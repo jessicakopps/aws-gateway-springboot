@@ -1,7 +1,13 @@
 # Projeto Java 5 - GATEWAY AWS
 
-Projeto realizado durante as aulas de Java, professora Marianne Salamão, do curso da Gama Academy em parceria com o banco PAN.
+Projeto realizado durante as aulas de Java, professora Marianne Salamão, do curso da Gama Academy em parceria com o Banco PAN.
 
-### Tecnologias utilizadas:
-- Spring Boot (Java 11 SDK e Maven)
+### 📑 Tecnologias utilizadas
+
+- Spring Boot (Maven e JDK 11)
+
+- AWS Cloud:
+  - API Gateway
+
+- <a target="_blank" href="https://github.com/jessicakopps/estudos/blob/master/AWS/gateway.md"> Mais informações</a>.
 
