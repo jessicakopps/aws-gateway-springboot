@@ -12,4 +12,3 @@ Projeto realizado durante as aulas de Java, professora Marianne Salamão, do cur
 <br>
 
 <a target="_blank" href="https://github.com/jessicakopps/estudos/blob/master/AWS/gateway.md"> Mais informações sobre o API Gateway</a>
-
